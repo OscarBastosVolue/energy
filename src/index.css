@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  color: #082d35;
+  font-family: "Source Sans 3", sans-serif;
+  font-weight: 600;
+  background: #e6ebec;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+footer p {
+  font-style: italic;
+  font-size: 1.1rem;
+}

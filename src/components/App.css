@@ -1,0 +1,30 @@
+.app-container {
+  height: 100vh;
+}
+
+header {
+  background: #082d35;
+  height: 70px;
+  padding: 0 16px;
+  display: flex;
+  align-items: center;
+}
+
+main {
+  background: #f3f5f6;
+  padding: 48px 24px;
+  overflow: hidden;
+}
+
+aside {
+  background: #9dafb3;
+  width: 250px;
+  padding: 16px;
+}
+
+footer {
+  background: #789297;
+  height: 50px;
+  display: grid;
+  place-content: center;
+}
